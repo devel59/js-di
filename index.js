@@ -1,1 +1,1 @@
-module.exports = require('./lib/di')
+export { ServiceContainer } from './lib/container';
